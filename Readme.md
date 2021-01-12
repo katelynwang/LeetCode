@@ -5,7 +5,8 @@
 
 ### LeetCode难题代码和算法要点分析
 #### 目前分类目录
-#### [Two Pointers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers)
+## 
+####  [Two Pointers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers)
 [011.Container-With-Most-Water](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)	(M+)  
 [015.3Sum](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/015.3Sum)  (M)  
 [016.3Sum-Closet](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/016.3Sum-Closest) (M)      
@@ -41,7 +42,8 @@
 [340.Longest-Substring-with-At-Most-K-Distinct-Characters](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/340.Longest-Substring-with-At-Most-K-Distinct-Characters) (H)    
 [992.Subarrays-with-K-Different-Integers](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/992.Subarrays-with-K-Different-Integers) (H-)    
 
-#### [Binary Search](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search)
+## 
+## [Binary Search](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search)
 [004.Median-of-Two-Sorted-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/004.Median-of-Two-Sorted-Arrays) (H)   
 [154.Find-Minimum-in-Rotated-Sorted-Array-II](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/154.Find-Minimum-in-Rotated-Sorted-Array-II) (H-)         
 [033.Search-in-Rotated-Sorted-Array](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/033.Search-in-Rotated-Sorted-Array) (M)   
@@ -87,6 +89,7 @@
 [1608.Special-Array-With-X-Elements-Greater-Than-or-Equal-X](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1608.Special-Array-With-X-Elements-Greater-Than-or-Equal-X) (M+)  
 [1648.Sell-Diminishing-Valued-Colored-Balls](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1648.Sell-Diminishing-Valued-Colored-Balls) (H-)  
 
+## 
 #### [Hash Table](https://github.com/wisdompeak/LeetCode/tree/master/Hash)
 [049.Group-Anagrams](https://github.com/wisdompeak/LeetCode/tree/master/Hash/049.Group-Anagrams) (M+)    
 [149.Max-Points-on-a-Line](https://github.com/wisdompeak/LeetCode/tree/master/Hash/149.Max-Points-on-a-Line) (H)     
@@ -121,6 +124,7 @@
 [1590.Make-Sum-Divisible-by-P](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1590.Make-Sum-Divisible-by-P) (H-)  
 [1658.Minimum-Operations-to-Reduce-X-to-Zero](https://github.com/wisdompeak/LeetCode/tree/master/Hash/1658.Minimum-Operations-to-Reduce-X-to-Zero) (M)  
 
+## 
 #### [Heap](https://github.com/wisdompeak/LeetCode/tree/master/Heap)
 [295.Find-Median-from-Data-Stream](https://github.com/wisdompeak/LeetCode/tree/master/Heap/295.Find-Median-from-Data-Stream)  (M)   
 [363.Max-Sum-of-Rectangle-No-Larger-Than-K](https://github.com/wisdompeak/LeetCode/tree/master/Heap/363.Max-Sum-of-Rectangle-No-Larger-Than-K) (H)  
@@ -135,6 +139,7 @@
 1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows (TBD)    
 [1606.Find-Servers-That-Handled-Most-Number-of-Requests](https://github.com/wisdompeak/LeetCode/tree/master/Heap/1606.Find-Servers-That-Handled-Most-Number-of-Requests) (M)  
 
+## 
 #### [Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree)
 [270.Closest-Binary-Search-Tree-Value](https://github.com/wisdompeak/LeetCode/tree/master/Tree/270.Closest-Binary-Search-Tree-Value) (M+)        
 [095.Unique-Binary-Search-Trees-II](https://github.com/wisdompeak/LeetCode/tree/master/Tree/095.Unique-Binary-Search-Trees-II) (H)   
@@ -191,6 +196,7 @@
 [1516.Move-Sub-Tree-of-N-Ary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/1516.Move-Sub-Tree-of-N-Ary-Tree) (H-)  
 1600.Throne-Inheritance (TBD)  
 
+## 
 #### [Segment Tree](https://github.com/wisdompeak/LeetCode/blob/master/Segment_Tree/)
 [307.Range-Sum-Query-Mutable](https://github.com/wisdompeak/LeetCode/blob/master/Segment_Tree/307.Range-Sum-Query-Mutable/) (M)   
 [370.Range-Addition](https://github.com/wisdompeak/LeetCode/tree/master/Segment_Tree/370.Range-Addition) (M+)   
@@ -200,10 +206,12 @@
 [1157.Online-Majority-Element-In-Subarray](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1157.Online-Majority-Element-In-Subarray) (H)  
 [1526.Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1526.Minimum-Number-of-Increments-on-Subarrays-to-Form-a-Target-Array) (H-)  
 
+## 
 #### [Binary Index Tree]
 [307.Range-Sum-Query-Mutable](https://github.com/wisdompeak/LeetCode/blob/master/Segment_Tree/307.Range-Sum-Query-Mutable/) (M)   
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer/1649.Create-Sorted-Array-through-Instructions) (H)  
 
+## 
 #### [Design](https://github.com/wisdompeak/LeetCode/tree/master/Design)
 [146.LRU-Cache](https://github.com/wisdompeak/LeetCode/tree/master/Design/146.LRU-Cache) (H-)   
 [460.LFU Cache](https://github.com/wisdompeak/LeetCode/tree/master/Design/460.LFU-Cache) (H)    
@@ -222,6 +230,7 @@
 [1418.Display-Table-of-Food-Orders-in-a-Restaurant](https://github.com/wisdompeak/LeetCode/tree/master/Design/1418.Display-Table-of-Food-Orders-in-a-Restaurant) (H-)  
 [1622.Fancy-Sequence](https://github.com/wisdompeak/LeetCode/tree/master/Design/1622.Fancy-Sequence) (H+)  
 
+## 
 #### [Stack](https://github.com/wisdompeak/LeetCode/tree/master/Stack)
 [032.Longest-Valid-Parentheses](https://github.com/wisdompeak/LeetCode/tree/master/Stack/032.Longest-Valid-Parentheses) (H)   
 [155.Min-Stack](https://github.com/wisdompeak/LeetCode/tree/master/Stack/155.Min-Stack) (M)   
@@ -271,6 +280,7 @@
 [1096.Brace-Expansion-II](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1096.Brace-Expansion-II) (H)   
 [1106.Parsing-A-Boolean-Expression](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1106.Parsing-A-Boolean-Expression) (H-)    
 
+## 
 #### [Deque](https://github.com/wisdompeak/LeetCode/tree/master/Deque)
 [239.Sliding-Window-Maximum](https://github.com/wisdompeak/LeetCode/tree/master/Deque/239.Sliding-Window-Maximum) (H)    
 [862.Shortest-Subarray-with-Sum-at-Least-K](https://github.com/wisdompeak/LeetCode/tree/master/Deque/862.Shortest-Subarray-with-Sum-at-Least-K) (H)   
@@ -280,6 +290,7 @@
 [1562.Find-Latest-Group-of-Size-M](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1562.Find-Latest-Group-of-Size-M) (H)  
 [1696.Jump-Game-VI](https://github.com/wisdompeak/LeetCode/tree/master/Deque/1696.Jump-Game-VI) (M+)  
 
+## 
 #### [Priority Queue](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue)
 [004.Median-of-Two-Sorted-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/004.Median-of-Two-Sorted-Arrays)	(H)  
 [378.Kth-Smallest-Element-in-a-Sorted-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/378.Kth-Smallest-Element-in-a-Sorted-Matrix) (H-)    
@@ -300,6 +311,7 @@
 [984.String-Without-AAA-or-BBB](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/984.String-Without-AAA-or-BBB) (M+)    
 [1405.Longest-Happy-String](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1405.Longest-Happy-String) (H-)   
 
+## 
 #### [DFS](https://github.com/wisdompeak/LeetCode/tree/master/DFS)
 [037.Sudoku-Solver](https://github.com/wisdompeak/LeetCode/tree/master/DFS/037.Sudoku-Solver) (H-)    
 [040.Combination-Sum-II](https://github.com/wisdompeak/LeetCode/tree/master/DFS/040.Combination-Sum-II) (M+)    
@@ -337,6 +349,7 @@
 [546.Remove-Boxes](https://github.com/wisdompeak/LeetCode/tree/master/DFS/546.Remove-Boxes) (H+)   
 [1340.Jump-Game-V](https://github.com/wisdompeak/LeetCode/tree/master/DFS/1340.Jump-Game-V) (M+)  
 
+## 
 #### [BFS](https://github.com/wisdompeak/LeetCode/tree/master/BFS)
 [126.Word-Ladder-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/126.Word-Ladder-II) (M+)    
 [130.Surrounded-Regions](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/130.Surrounded-Regions) (H-)   
@@ -377,6 +390,7 @@
 [1462.Course-Schedule-IV](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1462.Course-Schedule-IV) (M)    
 [1591.Strange-Printer-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1591.Strange-Printer-II) (H-)  
 
+## 
 #### [Trie](https://github.com/wisdompeak/LeetCode/tree/master/Trie)
 [208.Implement-Trie--Prefix-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Trie/208.Implement-Trie--Prefix-Tree) (M+)    
 [211.Add-and-Search-Word](https://github.com/wisdompeak/LeetCode/tree/master/Trie/211.Add-and-Search-Word) (H-)    
@@ -391,6 +405,7 @@
 1032. Stream of Characters (TBD)  
 [1707.Maximum-XOR-With-an-Element-From-Array](https://github.com/wisdompeak/LeetCode/tree/master/Trie/1707.Maximum-XOR-With-an-Element-From-Array) (H-)  
 
+## 
 #### [Greedy](https://github.com/wisdompeak/LeetCode/tree/master/Greedy)
 [055.Jump-Game](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/055.Jump-Game) (E+)  
 [045.Jump-Game-II](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/045.Jump-Game-II) (M)    
@@ -482,6 +497,7 @@
 [1288.Remove-Covered-Intervals](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1288.Remove-Covered-Intervals) (M+)  
 [1326.Minimum-Number-of-Taps-to-Open-to-Water-a-Garden](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/1326.Minimum-Number-of-Taps-to-Open-to-Water-a-Garden) (M+)   
 
+## 
 #### [Linked List](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List)
 [061.Rotate-List](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/061.Rotate-List) (M)  
 [086.Partition-List](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/086.Partition-List) (M)   
@@ -496,6 +512,7 @@
 [1474.Delete-N-Nodes-After-M-Nodes-of-a-Linked-List](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/1474.Delete-N-Nodes-After-M-Nodes-of-a-Linked-List) (M+)  
 [1670.Design-Front-Middle-Back-Queue](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/1670.Design-Front-Middle-Back-Queue) (M+)  
 
+## 
 #### [Dynamic Programming](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming)
 [264.Ugly-Number-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/264.Ugly-Number-II) (M+)   
 [265.Paint-House-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/265.Paint-House-II) (H)    
@@ -641,6 +658,7 @@
 [1259.Handshakes-That-Don't-Cross](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1259.Handshakes-That-Don't-Cross) (M+)   
 
 
+## 
 #### [Bit Manipulation](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation)
 [136.Single-Number](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/136.Single-Number) (M)   
 [137.Single-Number-II](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/137.Single-Number-II) (H-)   
@@ -659,14 +677,15 @@
 [1284.Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1284.Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix) (M+)  
 [1452.People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1452.People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List) (H-)  
 [1601.Maximum-Number-of-Achievable-Transfer-Requests](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1601.Maximum-Number-of-Achievable-Transfer-Requests) (H-)  
- 
 
+## 
 #### [Divide and Conquer](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer)
 [315.Count-of-Smaller-Numbers-After-Self](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer/315.Count-of-Smaller-Numbers-After-Self) (H-)    
 [327.Count-of-Range-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer/327.Count-of-Range-Sum) (H-)   
 [493.Reverse-Pairs](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer/493.Reverse-Pairs) (M+)    
 [1649.Create-Sorted-Array-through-Instructions](https://github.com/wisdompeak/LeetCode/tree/master/Divide_Conquer/1649.Create-Sorted-Array-through-Instructions) (H)  
 
+## 
 #### [String](https://github.com/wisdompeak/LeetCode/tree/master/String)
 [005.Longest-Palindromic-Substring](https://github.com/wisdompeak/LeetCode/tree/master/String/005.Longest-Palindromic-Substring) (H)  
 [006.ZigZag-Conversion](https://github.com/wisdompeak/LeetCode/tree/master/String/006.ZigZag-Conversion) (M+)    
@@ -697,6 +716,7 @@
 [1392.Longest-Happy-Prefix](https://github.com/wisdompeak/LeetCode/tree/master/String/1392.Longest-Happy-Prefix) (H)    
 1410.HTML-Entity-Parser (TBD)   
 
+## 
 #### [Union Find](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find)
 [547.Friend-Circles](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/547.Friend-Circles) (M)    
 [200.Number-of-Islands](https://github.com/wisdompeak/LeetCode/tree/master/DFS/200.Number-of-Islands) (H-)    
@@ -728,6 +748,7 @@
 [1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1579.Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable) (H-)  
 [1584.Min-Cost-to-Connect-All-Points](https://github.com/wisdompeak/LeetCode/tree/master/Union_Find/1584.Min-Cost-to-Connect-All-Points) (H-)  
 
+## 
 #### [Recursion](https://github.com/wisdompeak/LeetCode/tree/master/Recursion)
 [133.Clone-Graph](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/133.Clone-Graph) (M+)  
 [213.House-Robber-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/213.House-Robber-II) (H-)    
@@ -758,6 +779,7 @@
 [1510.Stone-Game-IV](https://github.com/wisdompeak/LeetCode/tree/master/Recursion/1510.Stone-Game-IV) (M)  
 [1563.Stone-Game-V](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1563.Stone-Game-V) (H-)  
 
+## 
 #### [Graph](https://github.com/wisdompeak/LeetCode/tree/master/Graph/)
 [332.Reconstruct-Itinerary](https://github.com/wisdompeak/LeetCode/tree/master/DFS/332.Reconstruct-Itinerary) (H)   
 [753.Cracking-the-Safe](https://github.com/wisdompeak/LeetCode/tree/master/Hash/753.Cracking-the-Safe) (H)   
@@ -768,6 +790,7 @@
 [1514.Path-with-Maximum-Probability](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1514.Path-with-Maximum-Probability) (H)  
 [1719.Number-Of-Ways-To-Reconstruct-A-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1719.Number-Of-Ways-To-Reconstruct-A-Tree) (H+)  
 
+## 
 #### [Math](https://github.com/wisdompeak/LeetCode/tree/master/Math)  
 [089.Gray-Code](https://github.com/wisdompeak/LeetCode/tree/master/Math/089.Gray-Code) (M+) (aka. 1238. Circular Permutation in Binary Representation)  
 [233.Number-of-Digit-One](https://github.com/wisdompeak/LeetCode/tree/master/Math/233.Number-of-Digit-One) (H-)   
@@ -829,6 +852,7 @@
 [1641.Count-Sorted-Vowel-Strings](https://github.com/wisdompeak/LeetCode/tree/master/Math/1641.Count-Sorted-Vowel-Strings) (M+)  
 [1643.Kth-Smallest-Instructions](https://github.com/wisdompeak/LeetCode/tree/master/Math/1643.Kth-Smallest-Instructions) (M+)  
 
+## 
 #### [Others](https://github.com/wisdompeak/LeetCode/tree/master/Others)  
 [007.Reverse-Integer](https://github.com/wisdompeak/LeetCode/tree/master/Others/007.Reverse-Integer) (M)    
 [048.Rotate-Image](https://github.com/wisdompeak/LeetCode/tree/master/Others/048.Rotate-Image) (M+)    
@@ -886,6 +910,7 @@
 [1625.Lexicographically-Smallest-String-After-Applying-Operations](https://github.com/wisdompeak/LeetCode/tree/master/Others/1625.Lexicographically-Smallest-String-After-Applying-Operations) (H-)  
 [1714.Sum-Of-Special-Evenly-Spaced-Elements-In-Array](https://github.com/wisdompeak/LeetCode/tree/master/Others/1714.Sum-Of-Special-Evenly-Spaced-Elements-In-Array) (H)  
 
+## 
 #### [Templates](https://github.com/wisdompeak/LeetCode/tree/master/Template)  
 [Math_Pow](https://github.com/wisdompeak/LeetCode/tree/master/Template/Math_Pow)  
 [Binary_Index_Tree](https://github.com/wisdompeak/LeetCode/tree/master/Template/Binary_Index_Tree)  
